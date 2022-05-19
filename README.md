@@ -14,7 +14,8 @@ Go to the project directory
 ```bash
   cd maryam-Nodejs-webserver
 ```
-To run this server for your project you should copy it on your folder of your content.
+## NOTE
+To run this server for your project you should copy it on your folder of your content and then follow steps bellow:
 
 Install dependencies
 
